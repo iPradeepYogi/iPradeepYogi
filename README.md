@@ -14,8 +14,10 @@ I'm a Full-Stack Developer and a "one man army" builder with a decade of experie
 * **Hardware:** Powered by a custom build with an AMD Radeon RX 6650 XT.
 
 ### 📈 GitHub Stats
-![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=iPradeepYogi&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iPradeepYogi&layout=compact&theme=transparent)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=iPradeepYogi&show_icons=true&theme=transparent" alt="Pradeep's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iPradeepYogi&layout=compact&theme=transparent" alt="Top Languages" />
+</p>
 
 ### 📫 Connect With Me
 * **Websites:** [shalapro.com](https://shalapro.com) | [shalapro.in](https://shalapro.in)
